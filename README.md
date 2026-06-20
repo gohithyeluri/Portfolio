@@ -1,38 +1,87 @@
+---
 
-## Portfolio Website
+# 🌐 Personal Portfolio Website
 
-This is my personal portfolio website built using HTML, CSS, and JavaScript.
-
-🔗 **Live Demo:**
-[https://your-portfolio-link.netlify.app/](https://your-portfolio-link.netlify.app/)
+This is my personal portfolio website showcasing my **projects, skills, achievements, and learning journey** as a developer. It reflects my interest in frontend development, MERN stack applications, and problem-solving.
 
 ---
 
-## Tech Stack
+## 📌 About Me
+
+I am a passionate developer with a strong interest in building responsive and user-friendly web applications. I enjoy working on frontend projects and continuously improving my skills in the **MERN stack (MongoDB, Express, React, Node.js)**.
+
+Alongside web development, I actively practice **Data Structures and Algorithms (DSA)** to strengthen my problem-solving and logical thinking abilities.
+
+---
+
+## 🏆 Achievements
+* Created multiple frontend mini projects
+* Regularly practicing DSA problems to improve coding skills
+* Completed 200+ in Leetcode and 500+ on COdechef
+* Leetcode :[https://leetcode.com/u/ponnamk/]
+* Codechef :[https://www.codechef.com/users/rag_23981a05a7]
+
+---
+
+## 🛠️ Skills
+
+### 💻 Frontend
 
 * HTML5
-* CSS3
-* JavaScript
+* CSS3 (Flexbox, Grid, Animations)
+* JavaScript (ES6+)
+* React
+
+### 🌐 Backend (Learning / Exploring)
+
+* Node.js
+* Express.js
+
+### 🗄️ Database
+
+* MongoDB
+* PostgreSQL
+
+### 🧠 Problem Solving
+
+* Data Structures & Algorithms (DSA)
+
+### ⚙️ Tools
+
+* Git & GitHub
+* VS Code
+* MongoDB Atlas
 
 ---
 
-## Features
+## 🎓 Education
 
-* Responsive design
-* Smooth animations
-* Clean UI
-* Contact section
+* Bachelor’s Degree in [Computer Science ]
+* [2023-2027]
 
 ---
 
-## Contact
+## 📂 Portfolio Sections
 
-* LinkedIn: [https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-* Instagram: [https://www.instagram.com/YOUR-INSTAGRAM/](https://www.instagram.com/YOUR-INSTAGRAM/)
-* GitHub: [https://github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+* 🏠 Home
+* 👨‍💻 About
+* 🛠️ Projects
+* 📜 Achievements
+* 📞 Contact
 
 ---
 
-## Note
+## 📬 Contact
 
-Feel free to check out the project and give feedback.
+* 📧 Email: [ponnamk19@gmail.com](mailto:your-email@example.com)
+* 💼 LinkedIn: www.linkedin.com/in/karthik-ponnam-564866295
+* 🐙 GitHub: https://github.com/Karthik7-github
+
+---
+
+## 🚀 Future Goals
+
+* Build full-stack MERN applications
+* Strengthen DSA and participate in coding contests
+* Create real-world scalable projects
+* Contribute to open source
