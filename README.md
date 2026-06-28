@@ -8,8 +8,6 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 **Portfolio:** https://portfolio-bay-five-g94aerrwtj.vercel.app/
 
-> *(Update this link after enabling GitHub Pages.)*
-
 ---
 
 ## 📌 Features
