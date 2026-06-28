@@ -78,7 +78,7 @@ I am **Gohith Yeluri**, a B.Tech (Computer Science Engineering) student passiona
 
 ## 📫 Contact
 
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
+* **Email:** [your-email@example.com](mailto:gohithyeluri@example.com)
 * **LinkedIn:** https://www.linkedin.com/in/gohithyeluri/
 * **GitHub:** https://github.com/gohithyeluri
 
