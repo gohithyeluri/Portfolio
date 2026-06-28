@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 🚀 Live Demo
 
-**Portfolio:** https://gohithyeluri.github.io/Portfolio/
+**Portfolio:** https://portfolio-bay-five-g94aerrwtj.vercel.app/
 
 > *(Update this link after enabling GitHub Pages.)*
 
